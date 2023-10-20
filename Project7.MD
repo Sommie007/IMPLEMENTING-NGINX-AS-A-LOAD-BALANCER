@@ -127,7 +127,7 @@ Then, browser the public IP of the nginx server
 
 ![Alt text](<Nginx LB/New webpage1.png>)
 
-Both WebserverA and WebserverB are both accessed from the Nginx public Ip on port 80, This shows that requests can be sent to any of the two servers to load balance traffic through the niginx server.
+Both WebserverA and WebserverB are both accessible from the Nginx public IP on port 80, This shows that requests can be sent to any of the two servers to load balance traffic through the niginx server.
 
 Nginx in this illustration represents both a reverse proxy and a load balancer.
 
